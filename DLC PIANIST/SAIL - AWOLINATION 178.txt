@@ -1,0 +1,66 @@
+[pd]|[pd]|[spe6]|[spe]|[spe]|[spe]|[spe]|[spe]|
+[ped]|[ped]|[spe6]|[spe]|[spe]|[spe]|[spe]|[spe]|
+[ped]|[ped]|[woa5]|[woa]|[woa]|[woa]|[woa]|[woa]|[woa]|[woa]|
+[thf8]|[thf]|[thf]|[thf]|
+[wda5]|[wda5]|[wda5]|[wda5]|
+[sfe6]| [spe]eettty|u|y te|
+[sfe6]| [spe]eettty|u|y te|
+[wda5]| [woa]wweee0|e|t ew|
+[tso8]| [usf]uuooo[woa5]| [pda]pp[slh]|
+[sfe6]| [spe]eettty|u|y te|
+[sfe6]| [spe]eettty|u|y te|
+[wda5]| [woa]wweee0|e|t ew|
+[tso8]| [usf]uuooo[woa5]| ppps|
+[e6]| [fe]e[fe][td]t[ts][yd]|[us]|[ys] te|
+[e6]| s[fe]e[fe][td]t[ts][yd]|[us]|[ys] te|
+[w5]| s[wf]w[wf][ed]e[se][d0]|[se]|
+[ts] e[wp] s[t8]| uuuooo[w5]| ppps|
+[e6]| [fe]e[fe][td]t[ts][yd]|[us]|[ys] te|
+[e6]| s[fe]e[fe][td]t[ts][yd]|[us]|[ys] te|
+[w5]| [wf]w[wf][ed]e[se][d0]|[se]|
+[ts] e[wp] s[t8]| uuuooo[w5]| ppp[slh]|
+[sfe6]| [spe]eettty|u|y t[lhe]|
+[sfe6]| [spe]eettty|u|y t[lhe]|
+[wda5]| [woa]wweee0|e|t e[wlh]|
+[t8]| [usf]uuooo[woa5]| [pda]pp[slh]|
+[e6]| [fe]e[fe][td]t[ts][yd]|[us]|[ys] te|
+[e6]| [fe]e[fe][td]t[ts][yd]|[us]|[ys] te|
+[w5]| [wf]w[wf][ed]e[se][d0]|[se]|
+[ts] e[wp] s[t8]| uuuooo[w5]| ppps|
+[e6]| [fe]e[fe][td]t[ts][yd]|[us]|[ys] te|
+[e6]| [fe]e[fe][td]t[ts][yd]|[us]|[ys] te|
+[w5]| s[wf]w[wf][ed]e[se][d0]|[se]|
+[ts] e[wp] s[t8]| uuuooo[w5]| ppp[slh]|
+[sfe6]| [spe]eettty|u|y t[lhe]|
+[sfe6]| [spe]eettty|u|y t[lhe]|
+[wda5]| [woa]wweee0|e|t e[wlh]|
+[tso8]| [usf]uuooo[woa5]| [pda]pp[slh]|
+[e6]|j hj hf h[je] hj hj hf p[e6]|
+j hj hf h[je] hj hj hf d[w5]|
+j hj hf h[wj] hj hj hf s[t8]|
+j h[tj8] hf d[w5]|j h[wj5] hf p[e6]|
+[jeb] [vh][jeb] [vh][xfe]|e|
+[jeb] [vh][jeb] [vh][vhe] [jb][xle6]|
+e|[lje]|e|e|e|e|e|[w5]|
+[wjb] [vh][wjb] [vh][xwf]|w|
+[wjb] [vh][wjb] [vh][wvh] [jb][t8]|
+[tjb8] [vh][tjb8] [vh][vth8] [jb][w5]|
+[wjb5] [vh][wjb5] [vh][wlh5]|
+[sjfe6]| [spe]eettty|u|y t[lhe]|
+[sfe6]| [spe]eettty|u|y t[lhe]|
+[wda5]| [woa]wweee0|e|t e[wlh]|
+[tsp8]| [usf]uuooo[woa5]| [pda]pp[slh]|
+[sfe6]| [pe]e[se]tt[td]y f[ud] s[yd] t[lhe]|
+[sfe6]| [pe]e[se]tt[td]y f[ud] s[yd] t[lhe]|
+[wda5]| [wp]w[ws]ee[ed]0 f[ed] s[td] e[wlh]|
+[tsp8]| [up]u[us]oo[od][w5] fp|[pd]p[pd]s|
+[spe6]|[spe]|[spe]|[spe]|[spe]|[spe]|[ped]|[ped]|
+[spe]|[spe]|[spe]|[spe]|[spe]|[spe]|[ped]|[ped]|
+[woa5]|[woa]|[woa]|[woa]|[woa]|[woa]|[woa]|[woa]|
+[tsh8]|[tsh]|[tsh]|[tsh]|
+[woa5]|[woa5]|[woa5]|[woa5]|
+[spe6]|[sp]|[sp]|[sp]|[sp]|[sp]|[pd]|[pd]|
+[spe6]|[sp]|[sp]|[sp]|[sp]|[sp]|[pd]|[pd]|
+[woa5]|[oa]|[oa]|[oa]|[oa]|[oa]|[oa]|[oa]|
+[tsh8]|[sh]|[sh]|[sh]|
+[woa5]|[oa]|[oa]|[oa]|[spe6]

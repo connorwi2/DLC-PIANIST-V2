@@ -1,0 +1,10 @@
+9 i 9 * i * 8 u 8 7 y
+8 9 i 9 * i * 8 u 8 7 y[8d] s [9d] g [is] [9d] s [*d] g [is] [*d] s [8d] g [us] [8d] s [7d] d g g [ys]
+[8d] s [9d] g [is] [9d] s [*d] g [is] [*d] s [8d] d g [us] [8d] s [7d] d y[8d] s [9d] g [is] [9d] s [*d] g [is] [*d] s [8d] g [us] [8d] s [7d] d g g [ys]
+[8d] s [9d] g [is] [9d] s [*d] g [is] [*d] s [8d] d g [us] [8d] s [7d] d y [8s] [9p] o i y i 9 * i * 8 u 8 7 y 8 9 i 9 * i * 8 u 8 7 y[8d] s [9d] g [is] [9d] s [*d] g [is] [*d] s [8d] g [us] [8d] s [7d] g [ys]
+s [8d] s [9d] d d i s [9d] s [*d] d d i s [*d] s [8d] d d d u [8d] s [7d] s d s d y[8d] s [9d] g s i s [9d] s [*d] d d d i [*d] s [8d] d d d u [8d] s [7d] d d [ys]
+[8d] s [9d] g s i 9 s [*d] d d i [*f] d [8f] f f f [uf] [8f] [7f] d d [yd][8d] s [9d] d g [is] [9d] s [*d] g s i s [*d] s [8d] g
+s u s [8d] s [7d] g s y
+s [8d] s [9d] g s i s [9d] s [*d] g s i [*d] d 8 u [8d] d 7 y[8d] s [9d] g [is] [9d] s [*d] g [is] [*d] s [8d] g [us] [8d] s [7d] d g g [ys]
+[8d] s [9d] g [is] [9d] s [*d] g [is] [*d] s [8d] d g [us] [8d] s [7d] d y[8d] s [9d] g [is] [9d] s [*d] g [is] [*d] s [8d] g [us] [8d] s [7d] d g g [ys]
+[8d] s [9d] g [is] [9d] s [*d] g [is] [*d] s [8d] d g [us] [8d] s [7d] d y [8s] [9p] o i y i 9 * i * 8 u 8 7 y 8 9 i 9 * i * 8 u 8 7 y
